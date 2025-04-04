@@ -29,6 +29,8 @@
   "somnia": "https://quest.somnia.network/api",
   "monadscore": "https://mscore.onrender.com",
   "parasail": "https://www.parasail.network/api",
+  "byData": "https://ultra-api.bydata.app",
+  "flow3": "https://api.flow3.tech/api",
 
   "kite": {
     "agents": {
