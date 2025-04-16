@@ -29,8 +29,11 @@
   "somnia": "https://quest.somnia.network/api",
   "monadscore": "https://mscore.onrender.com",
   "parasail": "https://www.parasail.network/api",
-  "byData": "https://ultra-api.bydata.app",
-  "flow3": "https://api.flow3.tech/api",
+  "byData": "https://mega-api.bydata.app",
+  "flow3": "https://api2.flow3.tech/api",
+  "dos": "https://api.dashboard.3dos.io/api",
+  "quackai": "https://quack-ai-api.duckchain.io",
+  "solix": "https://api.solixdepin.net/api",
 
   "kite": {
     "agents": {
