@@ -27,7 +27,7 @@
   "aigent": "https://api.qton.xyz/v1",
   "naoris": "https://naorisprotocol.network/sec-api",
   "somnia": "https://quest.somnia.network/api",
-  "monadscore": "https://mscore.onrender.com",
+  "monadscore": "https://mscore-production.up.railway.app",
   "parasail": "https://www.parasail.network/api",
   "byData": "https://mega-api.bydata.app",
   "flow3": "https://api2.flow3.tech/api",
